@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "퀴즈 3", "퀴즈 3.vcxproj", "{D1126F4F-20D8-46FA-8C31-2931142D2FCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1126F4F-20D8-46FA-8C31-2931142D2FCD}.Debug|x64.ActiveCfg = Debug|x64
+		{D1126F4F-20D8-46FA-8C31-2931142D2FCD}.Debug|x64.Build.0 = Debug|x64
+		{D1126F4F-20D8-46FA-8C31-2931142D2FCD}.Debug|x86.ActiveCfg = Debug|Win32
+		{D1126F4F-20D8-46FA-8C31-2931142D2FCD}.Debug|x86.Build.0 = Debug|Win32
+		{D1126F4F-20D8-46FA-8C31-2931142D2FCD}.Release|x64.ActiveCfg = Release|x64
+		{D1126F4F-20D8-46FA-8C31-2931142D2FCD}.Release|x64.Build.0 = Release|x64
+		{D1126F4F-20D8-46FA-8C31-2931142D2FCD}.Release|x86.ActiveCfg = Release|Win32
+		{D1126F4F-20D8-46FA-8C31-2931142D2FCD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E66C61BA-57A2-4953-8292-BC48808F0B78}
+	EndGlobalSection
+EndGlobal
